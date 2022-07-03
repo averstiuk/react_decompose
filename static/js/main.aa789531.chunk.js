@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_decompose=this.webpackJsonpreact_decompose||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);c(0);var n=c(3),s=c.n(n),o=(c(8),c(1));var a=function(){return Object(o.jsx)("main",{className:"app"})};s.a.render(Object(o.jsx)(a,{}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.aa789531.chunk.js.map
